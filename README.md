@@ -1,6 +1,3 @@
-# dogu_karadeniz_illeri
-Yazılım Gereksinim Mühendisliği bahar dönemi 2. ödev
-
 # Doğu Karadeniz Şehirleri Trafik Kodu Uygulaması
 
 Bu proje, Doğu Karadeniz illerinin trafik kodlarını bir dosyadan okuyarak, girilen koda karşılık gelen şehri ve "Doğu Karadeniz bölgesinde yer alır" mesajını ekrana yazdıran bir C uygulamasıdır.
